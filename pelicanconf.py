@@ -33,3 +33,15 @@ DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# THEME = 'themes/bootstrap2'
+# OUTPUT_PATH = 'output'
+# PATH = 'content'
+
+# # Custom Home page
+# DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
+# # PAGINATED_DIRECT_TEMPLATES = (('blog',))
+# TEMPLATE_PAGES = {'home.html': 'index.html',}
+
+# ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}/'
+# ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{slug}/index.html'
